@@ -1,5 +1,5 @@
-#Deep Learning with Python
-
+# Deep Learning with Python
+ 
 These notebooks use TensorFlow 2.6.
 
 ## Table of contents
